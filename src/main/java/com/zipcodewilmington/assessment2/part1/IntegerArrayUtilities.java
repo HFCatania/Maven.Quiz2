@@ -9,10 +9,9 @@ public class IntegerArrayUtilities {
     }
 
     public Integer[] range(int start, int stop) {
-        for (int i = start; i <= stop; i++){
-        }
-
-        return null;
+//      int[] range = IntStream.rangeClosed(start, stop).toArray();
+//        Stream<Integer> boxed = range[].boxed();
+       return null;
     }
 
     public Integer getSumOfFirstTwo(Integer[] array) {
