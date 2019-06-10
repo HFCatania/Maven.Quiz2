@@ -1,9 +1,16 @@
 package com.zipcodewilmington.assessment2.part2;
 
+import java.util.ArrayList;
+import java.util.Collection;
 import java.util.List;
 
-public class ListUtility {
+public class ListUtility{
+    Collection<Object> newList = new ArrayList<>();
+
     public Boolean add(int i) {
+//        Collection<Object> resultList = new ArrayList<>();
+//        resultList = newList.add(i);
+
         return null;
     }
 
